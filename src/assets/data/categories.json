@@ -26,6 +26,6 @@
     { "id": 100, "name": "Electronics", "hasSubCategory": false, "parentId": 0 },
     { "id": 150, "name": "Jewellery", "hasSubCategory": false, "parentId": 0 },    
     { "id": 200, "name": "Sports", "hasSubCategory": false, "parentId": 0 },
-    { "id": 250, "name": "Motors", "hasSubCategory ": false, "parentId": 0 },
-    { "id": 250, "name": "PSN NETWORK", "hasSubCategory": false, "parentId": 0 }
+    { "id": 250, "name": "Motors", "hasSubCategory ": false, "parentId " : 0 },  
+    { "id": 250, "name": "PSN NETWORKa", "hasSubCategory": false, "parentId": 0 }
 ]
